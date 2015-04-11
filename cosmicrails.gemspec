@@ -2,6 +2,8 @@ $:.push File.expand_path("../lib", __FILE__)
 
 # Maintain your gem's version:
 require "cosmicrails/version"
+require 'cosmicrails/view_helpers' if defined?(Rails)
+
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
