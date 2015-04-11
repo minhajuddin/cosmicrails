@@ -1,0 +1,2 @@
+module Cosmicrails
+end
