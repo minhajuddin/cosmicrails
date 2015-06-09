@@ -11,9 +11,9 @@ Gem::Specification.new do |s|
   s.version     = Cosmicrails::VERSION
   s.authors     = ["Khaja Minhajuddin"]
   s.email       = ["minhajuddin@cosmicvent.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Cosmicrails."
-  s.description = "TODO: Description of Cosmicrails."
+  s.homepage    = "http://cosmicvent.com/"
+  s.summary     = "Common gem for cosmicvent"
+  s.description = "Common gem for our rails apps"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
